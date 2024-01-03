@@ -1,2 +1,3 @@
 # jenkins-docker-1
-how to Deploying ReactJS Docker Container in ubuntu via jenkins (In this we are using same machine for jenkins and Deployment Host)
+#Title: how to Deploying ReactJS Docker Container in ubuntu via jenkins
+In this Task we are going to use the same machine for jenkins and Deployment the Host(Where our code will store & Run)
