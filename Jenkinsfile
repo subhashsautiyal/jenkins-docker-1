@@ -27,7 +27,7 @@ pipeline {
         stage("Deploy"){
             steps {
                 echo "Deploying the container"
-                sh "docker-compose up -d --no-deps --build my-react-app"
+                sh "docker-compose up -d --no-deps --build"
                 
             }
         }
